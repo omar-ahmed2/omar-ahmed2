@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>### 🔭 I’m currently working on  <br>Front-End projects using React.js.<br><br>### 🤝 I’m looking to collaborate on  <br>Web apps with clean UI/UX.<br><br>### 🆘 I’m looking for help with  <br>Improving my backend skills (Node.js).<br><br>### 🌱 I’m currently learning  <br>TypeScript & Next.js.<br><br>### 💬 Ask me about  <br>React, JavaScript, UI design.<br><br>### ⚡ Fun fact  <br>I add animations to almost everything I build.
+ 🔭 I’m currently working on  <br>Front-End projects using React.js.<br><br>🤝 I’m looking to collaborate on  <br>Web apps with clean UI/UX.<br><br>🆘 I’m looking for help with  <br>Improving my backend skills (Node.js).<br><br>🌱 I’m currently learning  <br>TypeScript & Next.js.<br><br>💬 Ask me about  <br>React, JavaScript, UI design.<br><br>⚡ Fun fact  <br>I add animations to almost everything I build.
 
 
 ## 🌐 Socials:
